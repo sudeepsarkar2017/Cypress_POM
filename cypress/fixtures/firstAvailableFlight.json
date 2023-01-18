@@ -1,0 +1,9 @@
+{
+  "TestCase001": {
+    "OneWay": "One way",
+    "Origin": "Vienna International",
+    "OriginCode": "VIE",
+    "Destination": "Malta International Airport",
+    "DestinationCode": "MLA"
+  }
+}

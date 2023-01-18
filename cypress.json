@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://airmalta.com/",
+    "testFiles": "./test/*.spec.ts",
+    "defaultCommandTimeout": 90000
+}

@@ -1,0 +1,27 @@
+{
+  "name": "redacre",
+  "version": "1.0.0",
+  "description": "Assignment of Red Acre Ltd.",
+  "main": "index.js",
+  "scripts": {
+    "cy:install": "npm install -f",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudeepsarkar2017/Cypress_POM.git"
+  },
+  "author": "Sudeep Sarkar",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/webpack-preprocessor": "^5.16.1",
+    "@testing-library/cypress": "8.0.0",
+    "cypress": "^9.5.0",
+    "typescript": "^4.9.4",
+    "webpack": "^5.75.0"
+  },
+  "dependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
