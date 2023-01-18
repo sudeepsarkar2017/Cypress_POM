@@ -2,7 +2,7 @@
 Automating airmalta website using Cypress with Very basic page object model.
 
 ## FrameWork Description:
-    ** /fixtures: ** is having all the data providers for the test scripts using .json file.
+    **/fixtures:** is having all the data providers for the test scripts using .json file.
 
     ** /integration: ** is having all the files related to pageObjects and Specs
 
