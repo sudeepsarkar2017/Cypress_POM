@@ -29,7 +29,7 @@ Automating airmalta website using Cypress with Very basic page object model.
     ** Working fine on windows **
 
     ** Step 1: ** clone the project
-        Command: git clone 
+        Command: git clone https://github.com/sudeepsarkar2017/Cypress_POM.git 
     ** Step2: ** install all the dependencies
         Command: npm run cy:install
     ** Step 3: ** execute in headless mode
